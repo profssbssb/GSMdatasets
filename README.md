@@ -1,7 +1,6 @@
 # GSM-trace-datasets
 ## Folloiwng table shows summary of the GSM datasets
 
-## Folloiwng table shows summary of the GSM datasets
 
 |Sr. No.  | Band   | Location   | indoor/outdoor | date of observation   | size of file|
 |--------|----------|------------|-----------------|-----------------------|--------|
