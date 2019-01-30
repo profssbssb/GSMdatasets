@@ -1,6 +1,8 @@
 # GSM-trace-datasets
 ## Folloiwng table shows summary of the GSM datasets
 
+## Folloiwng table shows summary of the GSM datasets
+
 |Sr. No.  | Band   | Location   | indoor/outdoor | date of observation   | size of file|
 |--------|----------|------------|-----------------|-----------------------|--------|
 |  1      | 900    | Rural/ashta      | outdoor        |   13/08/2018      |    6.42MB|
@@ -29,13 +31,13 @@
 |  24     | 1800   | Urban/Belagavi   | indoor         |   30/07/2018      |    825KB|
 |  25     | 900    | Urban/Belagavi   | indoor         |   29/07/2018      |    1.27 MB |
 |  26     | 900    | Urban/Belagavi   | indoor         |   30/07/2018      |    3.25 MB|
-|  27     | 900    | Urban/Belagavi   | indoor         |   30/07/2018      |    3.5 |
-|  27     | 900    | Urban/Belagavi   | indoor         |   31/07/2018      |    10.2 MB|
-|  28     | 1800   | Urban/Belagavi   | indoor         |   30/07/2018      |    825 KB             |
-|  29     | 900    | Urban/Pune       | outdoor        |   19/08/2018      |    2.90 MB
-|  30     | 900    | Urban/Sangli     | indoor         |   01/08/2018      |    12.4 MB|
-|  31     | 900    | Urban/Sangli     | indoor         |   13/08/2018      |    2.26 MB (morning)
-|  32     | 1800   | Urban/Sangli     | outdoor        |   02/08/2018      |    1.90 MB (evening)|
-|  33     | 1800   | Urban/Sangli     | outdoor        |   02/08/2018      |    2.2 MB  (morning)|
-|  34     | 900    | Urban/Sangli     | outdoor        |   22/08/2018      |    7.42 MB|
-|  35     | 1800   | Urban/Sangli     | outdoor        |   21/08/2018      |    2.58 MB|
+|  27     | 900    | Urban/Belagavi   | indoor         |   30/07/2018      |    3.5 MB|
+|  28     | 900    | Urban/Belagavi   | indoor         |   31/07/2018      |    10.2 MB|
+|  29     | 1800   | Urban/Belagavi   | indoor         |   30/07/2018      |    825 KB             |
+|  30     | 900    | Urban/Pune       | outdoor        |   19/08/2018      |    2.90 MB
+|  31     | 900    | Urban/Sangli     | indoor         |   01/08/2018      |    12.4 MB|
+|  32     | 900    | Urban/Sangli     | indoor         |   13/08/2018      |    2.26 MB (morning)
+|  33     | 1800   | Urban/Sangli     | outdoor        |   02/08/2018      |    1.90 MB (evening)|
+|  34     | 1800   | Urban/Sangli     | outdoor        |   02/08/2018      |    2.2 MB  (morning)|
+|  35     | 900    | Urban/Sangli     | outdoor        |   22/08/2018      |    7.42 MB|
+|  36     | 1800   | Urban/Sangli     | outdoor        |   21/08/2018      |    2.58 MB|
